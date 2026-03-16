@@ -18,26 +18,6 @@ We are a PropTech platform focused on Singapore's real estate market, making pro
 
 ---
 
-## 📦 主要项目 Projects
-
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| 🌐 [**web**](https://github.com/seekersg/web) | Seeker 官网 | Next.js · TypeScript · Tailwind CSS |
-| 📱 [**app**](https://github.com/seekersg/app) | Seeker 新加坡房产 APP | Flutter · iOS · Android |
-| ⚙️ [**api**](https://github.com/seekersg/api) | 后端接口服务 | Go · REST API |
-| 🖥️ [**admin**](https://github.com/seekersg/admin) | 后台管理系统 | TypeScript · React |
-
----
-
-## 🤝 贡献指南 Contributing
-
-1. Fork 目标仓库
-2. 创建功能分支 `git checkout -b feature/your-feature`
-3. 提交更改 `git commit -m 'feat: add your feature'`
-4. 推送分支并发起 Pull Request
-
----
-
 ## 📬 联系我们 Contact
 
 - 🌍 官网：[seeker.sg](https://seeker.sg)
