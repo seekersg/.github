@@ -22,7 +22,7 @@ We are a PropTech platform focused on Singapore's real estate market, making pro
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| 🌐 **web** | Seeker 官网 | Next.js · TypeScript · Tailwind CSS |
+| 🌐 [**web**](/seekersg/web) | Seeker 官网 | Next.js · TypeScript · Tailwind CSS |
 | 📱 **app** | Seeker 新加坡房产 APP | Flutter · iOS · Android |
 | ⚙️ **api** | 后端接口服务 | Go · REST API |
 | 🖥️ **admin** | 后台管理系统 | TypeScript · React |
@@ -41,6 +41,6 @@ We are a PropTech platform focused on Singapore's real estate market, making pro
 ## 📬 联系我们 Contact
 
 - 🌍 官网：[seeker.sg](https://seeker.sg)
-- 📧 邮箱：hello@seeker.sg
+- 📧 邮箱：support@seeker.sg
 
 </div>
